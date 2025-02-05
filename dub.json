@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"codemyst"
+	],
+	"copyright": "Copyright © 2025, codemyst",
+	"dependencies": {
+		"crypto": "~>0.2.18",
+		"scrypt-d": {
+			"path": "scrypt.d/"
+		}
+	},
+	"description": "A tool for decrypting pastemyst v2 pastes.",
+	"license": "MIT",
+	"name": "pastemyst-decryptor"
+}
